@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there, I'm Billy B. Sakha  
 
-<!--
-**BillySakha/BillySakha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mahasiswa **Teknik Informatika** di **Universitas Pasundan**  
+💻 Lagi belajar dan ngembangin skill di dunia Web Development  
+🚀 Fokus utama: bikin website yang keren dan fungsional  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Currently Learning
+🌱 Saat ini aku lagi ngulik:
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+### 💼 My Projects
+📁 [Portfolio Website](https://github.com/BillySakha/portfolio)  
+📁 [Tugas Mata Kuliah Web](https://github.com/BillySakha/tugas-web)  
+
+
+
+---
+
+### ⚙️ GitHub Stats
+![BillySakha's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillySakha&show_icons=true&theme=tokyonight)
+
+---
+
+### 🌐 Connect with Me
+📧 Email: [billybarbar@example.com](mailto:billybarbar@example.com)  
+🌍 Portfolio: [https://BillySakha.github.io](https://BillySakha.github.io)  
+
+---
+
+> “Koding itu bukan cuma soal logika, tapi juga tentang kreativitas dan konsistensi.” ✨
